@@ -1,3 +1,3 @@
 # hello-world
 the first repository
-try commit changes in 'hello-world' branch
+to try commit changes in 'hello-world' branch
